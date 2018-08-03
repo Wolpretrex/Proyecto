@@ -1,0 +1,59 @@
+[33mcommit 819d4fcc60dc095bba7591c5bd0d03bb2261e894[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 14:32:45 2018 -0500
+
+    Se extiende el case hasta el numero 10
+
+[33mcommit 0b35428da6b81de54c71b6d5d37afd60396414b5[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 14:28:08 2018 -0500
+
+    Se Corrige error de clase al llamar diferente que la clase princpipla, se ajusta la variable de salida para ejecutar codigo, y se crea la clase ejcucion para correr en el main el proyecto instanciandolo como ejecutar
+
+[33mcommit 2df4e942ce660af013f16dbb59a126f9875733a3[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 14:17:10 2018 -0500
+
+    Se agregan variables y se crean entradas y saldias de texto, junto a un Switch De prueba para pobrar logica del Proyecto
+
+[33mcommit d899deb546f3997d99f3b5e96115b34953cfc070[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 13:28:44 2018 -0500
+
+    Se crea una clase, para las variables.
+
+[33mcommit 6b2950811772c7fd1e582aac43fb3f7b0affcee9[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 02:04:34 2018 -0500
+
+    Creación de algunas variables.
+
+[33mcommit a82102fe32e9a45342b078e5c312e26fff1322dc[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 01:56:23 2018 -0500
+
+    Se crea la clase Vector, Y Package TEST , para creación de aplicativo de Monto Escrito
+
+[33mcommit 2ea505332c51d247ab9fe14f97ec34f1a9c2e0a9[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 01:47:01 2018 -0500
+
+    Conectado de Manera Remota y Local
+
+[33mcommit bb968a6666259a8ac8e6c8e5c0b8868725ac7fcf[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 00:29:51 2018 -0500
+
+    Aqui agregamos a sebas
+
+[33mcommit 3b95e0ade4b390fc3b9b0a7f800d55092c059175[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 00:26:11 2018 -0500
+
+    Agregamos Archivo MontoEscrito y sus packetes
+
+[33mcommit 578d6fa66bda4c7091a669910ed59212cb9ea7ac[m
+Author: Alejandro <alejandro.vallejo@utp.edu.co>
+Date:   Fri Aug 3 00:23:42 2018 -0500
+
+    Iniciamos Aqui

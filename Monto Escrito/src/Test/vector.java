@@ -70,7 +70,12 @@ public class vector {
 			case 10: 
 				NumeroResultado = "DIEZ";
 				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
-				break;				
+				break;		
+				
+			case 11: 
+				NumeroResultado = "ONCE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
 				
 				
 			default:
