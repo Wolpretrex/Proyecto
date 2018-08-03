@@ -6,7 +6,7 @@ public class variables {
 	
 	int vector[];
 	int cont;
-	String numero;
+	int numero;
 	char contador;
 	
 	public static void main(String[] args) {
