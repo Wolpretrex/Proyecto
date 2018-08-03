@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Clase Vector
 public class vector {
 	
-	public void operadores() {
+	public vector() {
 		//Variables
 		int NumeroDigitadoUser;
 		String NumeroResultado;
@@ -23,13 +23,13 @@ public class vector {
 		{
 			case 1: 
 				NumeroResultado = "UNO";
-				System.out.println("El numero digitado el letras es: "+(NumeroDigitadoUser));
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
 				break;
 				
 			
 			case 2: 
 				NumeroResultado = "DOS";
-				System.out.println("El numero digitado el letras es: "+(NumeroDigitadoUser));
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
 				break;
 				
 			default:
