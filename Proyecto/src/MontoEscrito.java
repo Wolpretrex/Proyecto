@@ -1,11 +1,9 @@
-package Test;
-
 import java.util.Scanner;
 
-//Clase Vector
-public class vector {
+//Clase MontoEscrito
+public class MontoEscrito {
 	
-	public vector() {
+	public MontoEscrito() {
 		//Variables
 		int NumeroDigitadoUser;
 		
