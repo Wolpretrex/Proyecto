@@ -72,12 +72,55 @@ public class vector {
 				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
 				break;		
 				
-			case 11: 
-				NumeroResultado = "ONCE";
+			case 12: 
+				NumeroResultado = "DOCE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
+
+
+			case 13: 
+				NumeroResultado = "TRECE";
 				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
 				break;		
 				
+
+			case 14: 
+				NumeroResultado = "CATORCE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
 				
+
+			case 15: 
+				NumeroResultado = "QUINCE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
+				
+
+			case 16: 
+				NumeroResultado = "DIEZYSEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
+				
+
+			case 17: 
+				NumeroResultado = "DIEZYOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
+				
+
+			case 19: 
+				NumeroResultado = "DIEZYNUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
+				
+								
+
+			case 20: 
+				NumeroResultado = "VEINTE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;		
+				
+								
 			default:
 				System.out.println("La expresion es incorrecta");
 				break;
