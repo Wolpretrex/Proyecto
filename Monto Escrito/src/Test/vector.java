@@ -8,11 +8,24 @@ public class vector {
 	public vector() {
 		//Variables
 		int NumeroDigitadoUser;
-		
+		String NumeroDigitadoUserr;
 		String NumeroResultado;
 		//String numeromos;
 		//int numprueba;
-		Scanner scan=new Scanner(System.in);
+		
+		
+		Scanner scan=new Scanner(System.in);		
+		
+		
+	
+		System.out.println("Ingrese si es Gay o no, Si o No: ");
+		NumeroDigitadoUserr = scan.next();
+		
+		System.out.println("No importa lo que coloque, eres gay.");
+	
+		
+		
+		
 		
 		//Número a guardar
 		System.out.println("Ingrese el número que desea convertir: ");

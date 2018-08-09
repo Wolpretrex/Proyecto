@@ -12,6 +12,7 @@ public class MontoEscrito {
 		//int numprueba;
 		Scanner scan=new Scanner(System.in);
 		
+		
 		//Número a guardar
 		System.out.println("Ingrese el número que desea convertir: ");
 		NumeroDigitadoUser = scan.nextInt();
@@ -112,15 +113,416 @@ public class MontoEscrito {
 				NumeroResultado = "DIEZYNUEVE";
 				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
 				break;		
-				
 								
 
 			case 20: 
-				NumeroResultado = "VEINTE	";
+				NumeroResultado = "VEINTE";
 				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
-				break;		
+				break;
 				
-								
+			case 21: 
+				NumeroResultado = "VEINTIUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 22: 
+				NumeroResultado = "VEINTIDOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 23: 
+				NumeroResultado = "VEINTITRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 24: 
+				NumeroResultado = "VEINTICUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 25: 
+				NumeroResultado = "VEINTICINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 26: 
+				NumeroResultado = "VEINTISEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 27: 
+				NumeroResultado = "VEINTISIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 28: 
+				NumeroResultado = "VEINTIOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 29: 
+				NumeroResultado = "VEINTINUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 30: 
+				NumeroResultado = "TREINTA";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 31: 
+				NumeroResultado = "TREINTAUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 32: 
+				NumeroResultado = "TREINTADOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 33: 
+				NumeroResultado = "TREINTATRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 34: 
+				NumeroResultado = "TREINTACUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 35: 
+				NumeroResultado = "TREINTACINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 36: 
+				NumeroResultado = "TREINTASEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 37: 
+				NumeroResultado = "TREINTASIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 38: 
+				NumeroResultado = "TREINTAOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 39: 
+				NumeroResultado = "TREINTANUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 40: 
+				NumeroResultado = "CUARENTA";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 41: 
+				NumeroResultado = "CUARENTAYUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 42: 
+				NumeroResultado = "CUARENTAYDOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 43: 
+				NumeroResultado = "CUARENTAYTRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 44: 
+				NumeroResultado = "CUARENTAYCUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 45: 
+				NumeroResultado = "CUARENTAYCINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 46: 
+				NumeroResultado = "CUARENTAYSEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 47: 
+				NumeroResultado = "CUARENTAYSIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 48: 
+				NumeroResultado = "CUARENTAYOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 49: 
+				NumeroResultado = "CUARENTAYNUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 50: 
+				NumeroResultado = "CINCUENTA";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 51: 
+				NumeroResultado = "CINCUENTAYUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 52: 
+				NumeroResultado = "CINCUENTAYDOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 53: 
+				NumeroResultado = "CINCUENTAYTRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 54: 
+				NumeroResultado = "CINCUENTAYCUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 55: 
+				NumeroResultado = "CINCUENTAYCINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 56: 
+				NumeroResultado = "CINCUENTAYSEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 57: 
+				NumeroResultado = "CINCUENTAYSIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 58: 
+				NumeroResultado = "CINCUENTAYOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 59: 
+				NumeroResultado = "CINCUENTAYNUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 60: 
+				NumeroResultado = "SESENTA";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 61: 
+				NumeroResultado = "SESENTAYUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 62: 
+				NumeroResultado = "SESENTAYDOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 63: 
+				NumeroResultado = "SESENTAYTRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 64: 
+				NumeroResultado = "SESENTAYCUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 65: 
+				NumeroResultado = "SESENTAYCINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 66: 
+				NumeroResultado = "SESENTAYSEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 67: 
+				NumeroResultado = "SESENTAYSIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 68: 
+				NumeroResultado = "SESENTAYOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 69: 
+				NumeroResultado = "SESENTAYNUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 70: 
+				NumeroResultado = "SETENTA";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 71: 
+				NumeroResultado = "SETENTAYUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 72: 
+				NumeroResultado = "SETENTAYDOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 73: 
+				NumeroResultado = "SETENTAYTRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 74: 
+				NumeroResultado = "SETENTAYCUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 75: 
+				NumeroResultado = "SETENTAYCINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 76: 
+				NumeroResultado = "SETENTAYSEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 77: 
+				NumeroResultado = "SETENTAYSIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 78: 
+				NumeroResultado = "SETENTAYOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 79: 
+				NumeroResultado = "SETENTAYNUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 80: 
+				NumeroResultado = "OCHENTA";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 81: 
+				NumeroResultado = "OCHENTAYUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 82: 
+				NumeroResultado = "OCHENTAYDOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 83: 
+				NumeroResultado = "OCHENTAYTRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 84: 
+				NumeroResultado = "OCHENTAYCUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 85: 
+				NumeroResultado = "OCHENTAYCINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 86: 
+				NumeroResultado = "OCHENTAYSEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 87: 
+				NumeroResultado = "OCHENTAYSIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 88: 
+				NumeroResultado = "OCHENTAYOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 89: 
+				NumeroResultado = "OCHENTAYNUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 90: 
+				NumeroResultado = "NOVENTA";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 91: 
+				NumeroResultado = "NOVENTAYUNO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 92: 
+				NumeroResultado = "NOVENTAYDOS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 93: 
+				NumeroResultado = "NOVENTAYTRES";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 94: 
+				NumeroResultado = "NOVENTAYCUATRO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 95: 
+				NumeroResultado = "NOVENTAYCINCO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 96: 
+				NumeroResultado = "NOVENTAYSEIS";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 97: 
+				NumeroResultado = "NOVENTAYSIETE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 98: 
+				NumeroResultado = "NOVENTAYOCHO";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 99: 
+				NumeroResultado = "NOVENTAYNUEVE";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+			case 100: 
+				NumeroResultado = "CIEN";
+				System.out.println("El numero digitado en letras es: "+(NumeroResultado));
+				break;
+				
+				
+				
+				
 			default:
 				System.out.println("La expresion es incorrecta");
 				break;
