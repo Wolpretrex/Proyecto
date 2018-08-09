@@ -528,15 +528,29 @@ public class MontoEscrito {
 				break;
 		
 		}
+			
 		
-		
-		//if()
+		int PrimerDigito;
+		int NumeroCadena;
+		int UltimoDigito;
+		System.out.println("Digite un numero del 0 al 99");
+		NumeroCadena = scan.nextInt();	
+			
+			
+			if(NumeroCadena >= 10 || NumeroCadena <= 99 ) {
+				PrimerDigito = NumeroCadena/10;
+				UltimoDigito = NumeroCadena%10;
+				
+				System.out.println(+(PrimerDigito));
+				System.out.println(+(UltimoDigito));
+			}
 	}
+	
 	
 	/*public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("CLase del Test de MontoEscrito");	
 	}
 	*/
-
 }
+
