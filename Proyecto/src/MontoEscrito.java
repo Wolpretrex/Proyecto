@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 //Clase MontoEscrito
 public class MontoEscrito {
 	
@@ -533,10 +534,35 @@ public class MontoEscrito {
 		int PrimerDigito;
 		int NumeroCadena;
 		int UltimoDigito;
-		System.out.println("Digite un numero del 0 al 99");
+		int cont = 0;
+		int ValorTemporal;
+
+			
+		/*
+		 * 		System.out.println("Digite un numero");
 		NumeroCadena = scan.nextInt();	
+		while(NumeroCadena < 10000 || NumeroCadena >= 1 || NumeroCadena >= 2 || NumeroCadena >= 3 || NumeroCadena >= 4 || NumeroCadena >= 5 || NumeroCadena >= 6 || NumeroCadena >= 7 || NumeroCadena >= 8 || NumeroCadena >= 9 )  {
 			
-			
+			int m = Math.max(0, NumeroCadena.length() - cantidad); 
+			//NumeroCadena = NumeroCadena%10;
+			//ValorTemporal = NumeroCadena;
+			System.out.println(+(ValorTemporal));
+			cont = cont+1;
+			System.out.println(+(cont));
+			String cadena = "123456789";
+			cadena = cadena.substring(0, cadena.length() - 2);
+		}
+		*/
+		
+		String Cadena;
+		int length;
+		System.out.println("Digite un numero");
+		Cadena = scan.next();
+		
+		
+		System.out.println(Cadena);
+		
+		/*
 			if(NumeroCadena >= 10 || NumeroCadena <= 99 ) {
 				PrimerDigito = NumeroCadena/10;
 				UltimoDigito = NumeroCadena%10;
@@ -544,6 +570,9 @@ public class MontoEscrito {
 				System.out.println(+(PrimerDigito));
 				System.out.println(+(UltimoDigito));
 			}
+			
+			*/
+
 	}
 	
 	
