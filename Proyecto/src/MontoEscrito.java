@@ -531,13 +531,13 @@ public class MontoEscrito {
 		}
 			
 		
-		int PrimerDigito;
+		String PrimerDigito;
 		int NumeroCadena;
 		int UltimoDigito;
-		int cont = 0;
+
 		int ValorTemporal;
 
-			
+		
 		/*
 		 * 		System.out.println("Digite un numero");
 		NumeroCadena = scan.nextInt();	
@@ -553,15 +553,63 @@ public class MontoEscrito {
 			cadena = cadena.substring(0, cadena.length() - 2);
 		}
 		*/
-		
-		String Cadena;
+		int contador = 0;	
+		int Cadena;
 		int length;
-		System.out.println("Digite un numero");
-		Cadena = scan.next();
+		System.out.println("Digite un numero: \n");
+		Cadena = scan.nextInt();
+		ValorTemporal = Cadena;
+		int Valor = Cadena;
+	
 		
-		
-		System.out.println(Cadena);
-		
+		if(Cadena <= 9999) {
+			if(Cadena <= 9) 
+			{
+				
+			}else 
+				{
+				if(Cadena > 9 && Cadena <= 99 ) 
+				{
+					
+				} else 
+					{
+						if(Cadena > 99 && Cadena <= 999 ) 
+						{
+							
+						}else
+							{	
+								if(Cadena > 999 && Cadena <= 9999) 
+								{
+									
+								}
+							}
+					}
+				}
+			
+							}else 
+							{
+								System.out.println("Este numero es superior a 4 digitos, maximo (9999)");
+							}
+
+		/*
+		while(Cadena == ValorTemporal ||  Cadena == Valor) {
+			if(Cadena == "1" ||  Cadena == "2" || Cadena == "3" || Cadena == "4" || Cadena == "5" || Cadena == "6" || Cadena == "7" || Cadena == "8" || Cadena == "9") {
+				System.out.print("Termino");
+					}
+				else {
+					Cadena = Cadena.substring(0, Cadena.length()-1);
+					System.out.println(Cadena);
+					contador = contador+1;
+					System.out.println(contador);
+					Valor = Cadena;
+			}
+
+		}
+		*&
+
+		String prueba;
+		System.out.println("Digite un numero: \n");
+		prueba = scan.next();
 		/*
 			if(NumeroCadena >= 10 || NumeroCadena <= 99 ) {
 				PrimerDigito = NumeroCadena/10;
