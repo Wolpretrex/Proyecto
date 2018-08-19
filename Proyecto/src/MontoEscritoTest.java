@@ -46,7 +46,7 @@ class MontoEscritoTest {
 	}
 	
 	@Test
-	void testDeMilaNueveMilNovecientosNuevayNueve() {
+	void testDeMilaNueveMilNovecientosNuentayNueve() {
 		Montoesc ejecucion = new Montoesc();
 		//JOptionPane.showMessageDialog(null, new Montoesc().convertir(5845));
 		//Datos obtenidos
